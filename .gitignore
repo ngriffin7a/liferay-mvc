@@ -7,3 +7,5 @@ rebel.xml
 *.sh
 .idea
 *.iml
+*.ipr
+*.iws
